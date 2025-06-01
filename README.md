@@ -78,8 +78,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate1.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Andrey9607/Andrey9607/refs/heads/main/certificate1.png.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Andrey9607/Andrey9607/refs/heads/main/certificate2.png.png)
+[<img src="/certificate1.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Andrey9607/Andrey9607/refs/heads/main/certificate1.png.)
+[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Andrey9607/Andrey9607/refs/heads/main/certificate2.png.)
 
 <br>
 
